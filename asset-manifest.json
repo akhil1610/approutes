@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/akhil1610/approutes.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/akhil1610/approutes.git/static/js/main.3c6da13f.chunk.js",
-    "main.js.map": "/akhil1610/approutes.git/static/js/main.3c6da13f.chunk.js.map",
-    "runtime-main.js": "/akhil1610/approutes.git/static/js/runtime-main.443f3165.js",
-    "runtime-main.js.map": "/akhil1610/approutes.git/static/js/runtime-main.443f3165.js.map",
-    "static/js/2.c9a1aaeb.chunk.js": "/akhil1610/approutes.git/static/js/2.c9a1aaeb.chunk.js",
-    "static/js/2.c9a1aaeb.chunk.js.map": "/akhil1610/approutes.git/static/js/2.c9a1aaeb.chunk.js.map",
-    "static/js/3.93a8b981.chunk.js": "/akhil1610/approutes.git/static/js/3.93a8b981.chunk.js",
-    "static/js/3.93a8b981.chunk.js.map": "/akhil1610/approutes.git/static/js/3.93a8b981.chunk.js.map",
-    "index.html": "/akhil1610/approutes.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/akhil1610/approutes.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c9a1aaeb.chunk.js.LICENSE.txt": "/akhil1610/approutes.git/static/js/2.c9a1aaeb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/akhil1610/approutes.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/approutes/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/approutes/static/js/main.3c6da13f.chunk.js",
+    "main.js.map": "/approutes/static/js/main.3c6da13f.chunk.js.map",
+    "runtime-main.js": "/approutes/static/js/runtime-main.2f4dfc90.js",
+    "runtime-main.js.map": "/approutes/static/js/runtime-main.2f4dfc90.js.map",
+    "static/js/2.c9a1aaeb.chunk.js": "/approutes/static/js/2.c9a1aaeb.chunk.js",
+    "static/js/2.c9a1aaeb.chunk.js.map": "/approutes/static/js/2.c9a1aaeb.chunk.js.map",
+    "static/js/3.93a8b981.chunk.js": "/approutes/static/js/3.93a8b981.chunk.js",
+    "static/js/3.93a8b981.chunk.js.map": "/approutes/static/js/3.93a8b981.chunk.js.map",
+    "index.html": "/approutes/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/approutes/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c9a1aaeb.chunk.js.LICENSE.txt": "/approutes/static/js/2.c9a1aaeb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/approutes/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.443f3165.js",
+    "static/js/runtime-main.2f4dfc90.js",
     "static/js/2.c9a1aaeb.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.3c6da13f.chunk.js"
